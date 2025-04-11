@@ -1,7 +1,7 @@
 ---
-Title : Analyse forensique d'un système d’information
-Date : 2023-10-15
-Duration : 5 months
+Title : Analyse des risques(EBIOS_RM) d'un système d’information
+Date : 2023-09-15
+Duration : 6 months
 ---
 # Projet d'études
 ## Université de Technologie de Troyes - UTT
