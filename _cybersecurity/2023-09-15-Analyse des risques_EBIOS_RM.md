@@ -11,25 +11,25 @@ Duration : 6 months
 ###  **Réalisations**
 1. Analyse de risques du SI EBIOS RM
     - Contextualisation et Identification des Parties Prenantes
-  - Identification des Sources de Menaces
-  - Identification des Vulnérabilités
-  - Analyse des Impacts
-  - Evaluation des Scénarios de Risques
-  - Traitement des Risques
-  - Suivi et Amélioration Continue
+    - Identification des Sources de Menaces
+    - Identification des Vulnérabilités
+    - Analyse des Impacts
+    - Evaluation des Scénarios de Risques
+    - Traitement des Risques
+    - Suivi et Amélioration Continue
 2. PSSI (politique de sécurité du Système d'Information)
-  - Identification des Besoins de Sécurité
-  - Définition des Objectifs de Sécurité
-  - Identification des Mesures de Sécurité
-  - Gestion des Actifs et des Risques
+    - Identification des Besoins de Sécurité
+    - Définition des Objectifs de Sécurité
+    - Identification des Mesures de Sécurité
+    - Gestion des Actifs et des Risques
 3. PRA / PCA ()Plan de secours et de reprise d'activités
-  - Identification des Besoins de Continuité et de Reprise
-  - Définition des Scénarios de Perturbation
-  - Planification des Mesures de Continuité et de Reprise
-  - Définition des Rôles et Responsabilités
-  - Test et Validation des Plans
-  - Amélioration Continue
-  - Suivi et Documentation
+    - Identification des Besoins de Continuité et de Reprise
+    - Définition des Scénarios de Perturbation
+    - Planification des Mesures de Continuité et de Reprise
+    - Définition des Rôles et Responsabilités
+    - Test et Validation des Plans
+    - Amélioration Continue
+    - Suivi et Documentation
 
 
 ###  **Résultats**
