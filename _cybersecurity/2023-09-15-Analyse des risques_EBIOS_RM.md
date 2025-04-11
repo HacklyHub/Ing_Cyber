@@ -10,7 +10,7 @@ Duration : 6 months
 
 ###  **Réalisations**
 1. Analyse de risques du SI EBIOS RM
-  - Contextualisation et Identification des Parties Prenantes
+    - Contextualisation et Identification des Parties Prenantes
   - Identification des Sources de Menaces
   - Identification des Vulnérabilités
   - Analyse des Impacts
