@@ -34,17 +34,17 @@ Duration : à nos jours
 ###  **Résultats**
 1. Amélioration de la détection et de la réactivité aux incidents
    - Réduction du temps de détection des menaces grâce à une configuration efficace des outils SIEM (Splunk, ELK).
-o	Identification et blocage en temps réel des tentatives d’intrusion avec Snort
-o	Optimisation des règles de corrélation pour réduire les faux positifs et améliorer la précision des alertes.
-o	Diminution du taux de faux positifs.
+   - Identification et blocage en temps réel des tentatives d’intrusion avec Snort
+   - Optimisation des règles de corrélation pour réduire les faux positifs et améliorer la précision des alertes.
+   - Diminution du taux de faux positifs.
 
-•	Augmentation de la visibilité et du contrôle des logs et flux réseau
-o	Collecte et analyse centralisée des logs provenant de différentes sources (systèmes, applications, réseaux).
-o	Création de dashboards interactifs et de rapports automatisés pour le suivi des menaces et incidents.
-o	Détection proactive des comportements anormaux sur le réseau avec Wireshark.
+2. Augmentation de la visibilité et du contrôle des logs et flux réseau
+   - Collecte et analyse centralisée des logs provenant de différentes sources (systèmes, applications, réseaux).
+   - Création de dashboards interactifs et de rapports automatisés pour le suivi des menaces et incidents.
+   - Détection proactive des comportements anormaux sur le réseau avec Wireshark.
 
-•	Renforcement de la sécurité et conformité
-o	Mise en conformité avec les réglementations (ISO 27001, NIST, RGPD, SOC 2) en assurant une meilleure traçabilité des événements de sécurité.
-o	Mise en place d’audits réguliers avec Metasploit et Burp Suite pour tester la robustesse des défenses.
-o	Réduction des risques liés aux cyberattaques (malwares, ransomwares, phishing, brute-force) grâce à une amélioration continue des règles de détection et de réponse.
-o	Automatisation de la réponse aux incidents avec des playbooks réduisant le temps d’intervention de X minutes/heures.
+3. Renforcement de la sécurité et conformité
+   - Mise en conformité avec les réglementations (ISO 27001, NIST, RGPD, SOC 2) en assurant une meilleure traçabilité des événements de sécurité.
+   - Mise en place d’audits réguliers avec Metasploit et Burp Suite pour tester la robustesse des défenses.
+   - Réduction des risques liés aux cyberattaques (malwares, ransomwares, phishing, brute-force) grâce à une amélioration continue des règles de détection et de réponse.
+   - Automatisation de la réponse aux incidents avec des playbooks réduisant le temps d’intervention de X minutes/heures.
