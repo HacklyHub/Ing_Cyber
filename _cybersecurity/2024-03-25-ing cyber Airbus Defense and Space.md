@@ -2,14 +2,14 @@
 title: "Ingénieur Cybersécurité IT/Cloud / DevOps"
 date: 2024-03-25
 ---
-#Stage de Fin d'études
-##Airbus Defense and Space mars 2024 - Septembre 2024
+# Stage de Fin d'études
+## Airbus Defense and Space mars 2024 - Septembre 2024
 ### **Objectif** 
-- * Réaliser un Trade-off sur les firewalls*  
-- *Concevoir déployer et maintenir des solutions de firewalls (Palo Alto, Fortinet, Stormshield, Genua, Sophos...) * 
-- Monitoring et reporting en analysant les logs sur ELK Stack*
+- *Réaliser un Trade-off sur les firewalls*  
+- *Concevoir déployer et maintenir des solutions de firewalls (Palo Alto, Fortinet, Stormshield, Genua, Sophos...)* 
+- *Monitoring et reporting en analysant les logs sur ELK Stack*
 
-###**Réalisations**
+###  **Réalisations**
 1. Entretien pour le RETEX et collecte de besoins
 2. Analyser l'ensemble des pare-feu disponibles sur le marché : Benchmark et veille technologique sur les fonctionnalités et performances des firewalls 
 3. Effectuer un trade-off entre les pare-feu sur des critères : Étude comparative des solutions firewall (Cisco ASA, Palo Alto, Fortinet, etc...) sur des critères comme la performance, la sécurité, le coût, etc…
