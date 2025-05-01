@@ -23,6 +23,11 @@ Duration : à nos jours
 5. Protocol data unit (PDU) tracking
 6. Dimensionnement de protocoles
 7. Gestion de l’adressage IP, subnetting
+8. Analyse de trames réseau
+9. Inspection des protocoles (Ethernet, IP, TCP)
+10. Identification des ports, fenêtres, séquences, etc ...
+11. Surveillersécuriser le trafic
+12. Diagnostiquer le réseau (SYN, ACK, SEQ, FIN)
 
 
 ###  **Résultats**
