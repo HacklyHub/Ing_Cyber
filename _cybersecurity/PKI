@@ -15,7 +15,7 @@ Duration : 4 months
 **Type :** Projet Personnel / Preuve de Concept (PoC)  
 **Statut :** Achevé et Maintenu  
 
-## 🛠️ Tâches et Implémentation
+## Tâches et Implémentation
 * **Génération et Gestion des Clés :** 
   * Création manuelle de requêtes de signature (CSR) et de paires de clés via `openssl` pour comprendre la structure cryptographique (RSA 4096, courbes elliptiques secp384r1).
   * Application stricte des permissions Linux (`chmod 600`) sur les clés privées pour prévenir l'exfiltration.
@@ -29,15 +29,15 @@ Duration : 4 months
 * **Monitoring Personnalisé :** 
   * Développement d'un script Bash monitorant les dates d'expiration des certificats locaux (via `openssl x509 -enddate`) et envoyant une alerte sur un webhook (Discord/Slack) en cas d'anomalie.
 
-## 🏆 Réalisations Techniques
+## Réalisations Techniques
 * Architecture d'une chaîne de confiance complète et valide pour plusieurs sous-domaines de test.
 * Maîtrise des outils d'investigation en ligne de commande (utilisation d'`openssl s_client -showcerts` pour valider l'envoi de la chaîne complète par le serveur).
 
-## 📈 Résultats et Impact
+## Résultats et Impact
 * Cycle de vie (CLM) 100% automatisé : 0 expiration imprévue sur une période de 2 mois de test.
 * Création d'un template de configuration Nginx réutilisable et documenté.
 
-## 💻 Environnement Technique (100% Open Source)
+## Environnement Technique (100% Open Source)
 * **OS :** Debian / Ubuntu Linux.
 * **Serveur Web :** Nginx.
 * **Cryptographie & PKI :** OpenSSL, Certbot (Protocole ACME), Let's Encrypt (CA Publique).
